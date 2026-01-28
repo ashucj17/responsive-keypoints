@@ -1,0 +1,2 @@
+px -> Pixel: It is a single dot on the screen. Pixel always depends on screen size.
+% -> Precentage: It depends on size of the parent. Always use % on child elements.

@@ -1,0 +1,15 @@
+ViewPort-> The visible area on the device screen.
+vh -> ViewPort Height: visible or viewable height of the screen.
+vw -> ViewPort Width: visible or viewable width of the screen.
+
+em-> It is always relative to the height of the parent element.
+. It multiplies the height with given values.
+. => parent fornt size is 20px. h1 font size is 2em. so it multiplies 20*2= 40.
+
+rem -> It always relative to root element (HTML)
+. By default html size is 16px. So it multiplies it by 16
+. => h3 size is 3rem so the output will be 16*3 = 48px
+
+ch -> character height all character are different in size. So if we define h1: 20ch it will take 20 character in one line and the remaining will align in the next line.
+
+lh -> Line height
