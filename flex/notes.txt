@@ -1,0 +1,2 @@
+Flex box: it is used to align the content in 2 dimensions X-axis (main axis) and Y-axis (cross axis).
+The property align-items wor on cross axis and justyfy content work on main axis.
