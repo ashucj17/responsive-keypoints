@@ -1,0 +1,7 @@
+Grid tamplet: Grid tamplet is also a display property like display flex. Its is used for more complex designs like dashboard's whare as flex box is used in simple layout like button alingment card alingment, navigation alingment.
+
+display: grid;
+grid-tamplet-column: 1fr, 1fr, 1fr or in values like px, %.
+
+
+grid-auto-flow: default behaviour is row;
